@@ -1,0 +1,15 @@
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\RSACrypto.exe
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\RSACrypto.deps.json
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\RSACrypto.runtimeconfig.json
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\RSACrypto.dll
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\RSACrypto.pdb
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.csproj.AssemblyReference.cache
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.AssemblyInfoInputs.cache
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.AssemblyInfo.cs
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.csproj.CoreCompileInputs.cache
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.dll
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\RSACrypto.dll
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.pdb
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\RSACrypto.genruntimeconfig.cache
+C:\Users\lolen\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\RSACrypto.dll
